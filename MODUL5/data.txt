@@ -1,0 +1,14 @@
+DATAMU GAES
+test
+1
+2
+
+DATAMU GAES
+aku
+20
+30
+
+DATAMU GAES
+yaasir
+10
+100
